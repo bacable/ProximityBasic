@@ -1,3 +1,10 @@
+'''
+Tile.py
+
+The tiles that get placed on the board and how they are displayed.
+
+'''
+
 from options import Options
 
 class Tile:

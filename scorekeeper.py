@@ -1,3 +1,10 @@
+'''
+Scorekeeper.py
+
+Keeps track of and calculates scores for the different teams.
+
+'''
+
 class Scorekeeper:
 	
 	def __init__(self,playerCount,options):
